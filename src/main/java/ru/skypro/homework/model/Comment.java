@@ -3,7 +3,7 @@ package ru.skypro.homework.model;
 import lombok.Data;
 import ru.skypro.homework.dto.CommentDTO;
 
-import javax.persistence.*;
+import jakarta.persistence.*;
 import java.time.LocalDateTime;
 
 @Entity
